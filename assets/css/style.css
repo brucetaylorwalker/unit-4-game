@@ -1,0 +1,31 @@
+#header {
+    background-color: lightgrey;
+}
+
+#instructions {
+    background-color: lightgrey;
+
+}
+
+#number {
+    background-color: lightgrey;
+}
+
+#wins-losses {
+    background-color: lightgrey;
+    margin-left: 20px;
+}
+
+#crystal-image1,
+#crystal-image2,
+#crystal-image3,
+#crystal-image4
+ {
+    width: 100px;
+    height: 100px;
+}
+
+#total-score {
+    background-color: lightgrey;
+
+}
